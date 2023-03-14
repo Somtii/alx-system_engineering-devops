@@ -1,1 +1,1 @@
-0x02-shell_redircections
+0x02-shell_redirections
